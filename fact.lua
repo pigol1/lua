@@ -7,7 +7,7 @@ function fact (n)
 		return d
 	end
 end
---print("enter a number:")
---a = io.read("*number")
---print(fact(a))
+print("enter a number:")
+a = io.read("*number")
+print(fact(a))
 
